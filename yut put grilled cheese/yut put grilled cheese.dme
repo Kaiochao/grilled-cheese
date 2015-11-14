@@ -1,0 +1,25 @@
+// DM Environment file for yut put grilled cheese.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <kaiochao\shapes\shapes.dme>
+#include "_defines.dm"
+#include "attribute.dm"
+#include "blocks.dm"
+#include "interface.dm"
+#include "items.dm"
+#include "player.dm"
+#include "yut put grilled cheese.dm"
+// END_INCLUDE
+
